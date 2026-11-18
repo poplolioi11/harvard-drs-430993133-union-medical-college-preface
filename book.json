@@ -1,0 +1,472 @@
+{
+  "id": "harvard-drs-430993133-union-medical-college-preface",
+  "title": "協和醫學堂徵信錄序（哈佛燕京圖書館 DRS 430993133，1910）",
+  "english_title": "Xie he yi xue tang zheng xin lu [Preface to the Union Medical College Report]",
+  "version": "0.1.0",
+  "date": "2026-11-18",
+  "editor": {
+    "name": "Chu, Chen-Yu",
+    "orcid": "0009-0003-9738-6914"
+  },
+  "language": "lzh",
+  "historical_authors": [],
+  "rights_note": "The 1910 preface is public domain. New editorial documentation and markup are CC BY 4.0 where applicable.",
+  "source": {
+    "citation": "哈佛燕京圖書館藏 RAREB TA 7905 4229《協和醫學堂徵信錄》，1910 年上海美華書館排印。",
+    "catalog": "https://id.lib.harvard.edu/alma/990081664450203941/catalog",
+    "digital_source": "https://commons.wikimedia.org/wiki/File:Harvard_drs_430993133_%E6%81%8A%E5%92%8C%E9%86%AB%E5%AD%B8%E5%A0%82%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf",
+    "pdf": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Harvard_drs_430993133_%E6%81%8A%E5%92%8C%E9%86%AB%E5%AD%B8%E5%A0%82%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf",
+    "holdings": "Harvard-Yenching Library",
+    "shelfmark": "RAREB TA 7905 4229",
+    "alma": "990081664450203941",
+    "drs": "430993133",
+    "historical_title": "協和醫學堂徵信錄",
+    "catalog_title": "恊和醫學堂徵信錄",
+    "original_publisher": "上海美華書館排印",
+    "original_edition_year": 1910,
+    "place": "上海",
+    "pdf_pages": 40,
+    "pdf_sha256": "64f9d2828c7628050d9f0110cd9fb8ab818cc45ab5ada283092b63604447db70",
+    "reuse_policy": "https://library.harvard.edu/about/policies/policy-access-digital-reproductions-works-public-domain"
+  },
+  "coverage": {
+    "physical_faces": 3,
+    "column_units": 26,
+    "complete_book": false,
+    "included": "完整未署名〈序〉及題首",
+    "excluded": [
+      "p10 起〈捐啟〉與其他篇"
+    ]
+  },
+  "descriptive_layers": {
+    "body": "原印頁一至三的序文，自右至左。原版空心圓句點以「。」錄。",
+    "coordinates": "頁框按各原圖渲染尺寸設定，取 0-based x,y,width,height 近似定位。",
+    "layout": "頂格、大段原版留白與欄題在 JSON 分別標注。"
+  },
+  "quality": {
+    "ai_assisted": true,
+    "human_full_double_collation": false,
+    "reference_accuracy_measurement": false,
+    "peer_reviewed": false
+  },
+  "sections": [
+    {
+      "id": "preface",
+      "type": "preface",
+      "label": "序"
+    }
+  ],
+  "pages": [
+    {
+      "id": "page-7",
+      "pdf_page": 7,
+      "printed_page": "一",
+      "image_reference": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Harvard_drs_430993133_%E6%81%8A%E5%92%8C%E9%86%AB%E5%AD%B8%E5%A0%82%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=7",
+      "mime_type": "application/pdf",
+      "source_dimensions": [
+        891,
+        1400
+      ],
+      "source_raster_sha256": "7d2bf542fdfddba608aeb4a87e196bb7cc29f71c227dd1f15623fdc42a485e0c",
+      "running_title": "協和醫學堂徵信錄"
+    },
+    {
+      "id": "page-8",
+      "pdf_page": 8,
+      "printed_page": "二",
+      "image_reference": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Harvard_drs_430993133_%E6%81%8A%E5%92%8C%E9%86%AB%E5%AD%B8%E5%A0%82%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=8",
+      "mime_type": "application/pdf",
+      "source_dimensions": [
+        884,
+        1400
+      ],
+      "source_raster_sha256": "449677c4a9f23b1cca41b3e661e5c0aa7d52974b212fa1db1755b5272c214b27",
+      "running_title": "協和醫學堂徵信錄"
+    },
+    {
+      "id": "page-9",
+      "pdf_page": 9,
+      "printed_page": "三",
+      "image_reference": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Harvard_drs_430993133_%E6%81%8A%E5%92%8C%E9%86%AB%E5%AD%B8%E5%A0%82%E5%BE%B5%E4%BF%A1%E9%8C%84.pdf#page=9",
+      "mime_type": "application/pdf",
+      "source_dimensions": [
+        884,
+        1400
+      ],
+      "source_raster_sha256": "2a9c1dae040b051a450c7d44be61d0df96b30643f45ba646a871948126ea82a5",
+      "running_title": "協和醫學堂徵信錄"
+    }
+  ],
+  "units": [
+    {
+      "id": "line-p007-c01",
+      "page_id": "page-7",
+      "section": "preface",
+      "column": 1,
+      "role": "title",
+      "text": "序",
+      "xywh": [
+        756,
+        231,
+        50,
+        57
+      ]
+    },
+    {
+      "id": "line-p007-c02",
+      "page_id": "page-7",
+      "section": "preface",
+      "column": 2,
+      "role": "body",
+      "text": "天以生物為心。人尤以養生為重。然暑淫風寒。時多感觸。喜怒哀",
+      "xywh": [
+        697,
+        231,
+        50,
+        1048
+      ],
+      "editorial_note": "原圖字為水旁、爪形與壬形，採淫。"
+    },
+    {
+      "id": "line-p007-c03",
+      "page_id": "page-7",
+      "section": "preface",
+      "column": 3,
+      "role": "body",
+      "text": "樂。易失中和。是以疾病之來。最為生人之苦。此醫療之術。不可不",
+      "xywh": [
+        638,
+        231,
+        50,
+        1048
+      ]
+    },
+    {
+      "id": "line-p007-c04",
+      "page_id": "page-7",
+      "section": "preface",
+      "column": 4,
+      "role": "body",
+      "text": "精益求精也。昔黃帝嘗百草以療病。和緩制方劑以活人。其法古",
+      "xywh": [
+        577,
+        231,
+        50,
+        1048
+      ]
+    },
+    {
+      "id": "line-p007-c05",
+      "page_id": "page-7",
+      "section": "preface",
+      "column": 5,
+      "role": "body",
+      "text": "矣。後世失其傳。國家亦未嘗注重。學者又不克研究以幾其深。降",
+      "xywh": [
+        517,
+        231,
+        50,
+        1048
+      ]
+    },
+    {
+      "id": "line-p007-c06",
+      "page_id": "page-7",
+      "section": "preface",
+      "column": 6,
+      "role": "body",
+      "text": "至於今。僅存糟粕。遇疑難之症。每至束手無策。而聽其自為死生。",
+      "xywh": [
+        457,
+        231,
+        50,
+        1048
+      ]
+    },
+    {
+      "id": "line-p007-c07",
+      "page_id": "page-7",
+      "section": "preface",
+      "column": 7,
+      "role": "body",
+      "text": "良為憾事。自海禁大啟。西醫輸入中國。其療治之精奇。見之者莫",
+      "xywh": [
+        398,
+        231,
+        50,
+        1048
+      ]
+    },
+    {
+      "id": "line-p007-c08",
+      "page_id": "page-7",
+      "section": "preface",
+      "column": 8,
+      "role": "body",
+      "text": "不驚而訝之。以為華扁無以過也。但西醫之至中土者無幾。散處",
+      "xywh": [
+        337,
+        231,
+        50,
+        1048
+      ]
+    },
+    {
+      "id": "line-p007-c09",
+      "page_id": "page-7",
+      "section": "preface",
+      "column": 9,
+      "role": "body",
+      "text": "於一鄉一隅。以吾國幅員之廣。誠難徧及。英醫士科君。有見於是。",
+      "xywh": [
+        277,
+        231,
+        50,
+        1048
+      ]
+    },
+    {
+      "id": "line-p007-c10",
+      "page_id": "page-7",
+      "section": "preface",
+      "column": 10,
+      "role": "body",
+      "text": "以拯疾為懷。獨具熱誠。首先提倡。創設醫科大學。以補吾國之所",
+      "xywh": [
+        218,
+        231,
+        50,
+        1048
+      ]
+    },
+    {
+      "id": "line-p007-c11",
+      "page_id": "page-7",
+      "section": "preface",
+      "column": 11,
+      "role": "body",
+      "text": "缺。專授華人子弟。供多士之研求。拯通國之疾苦。諺云。誠可格天。",
+      "xywh": [
+        160,
+        231,
+        50,
+        1048
+      ]
+    },
+    {
+      "id": "line-p008-c01",
+      "page_id": "page-8",
+      "section": "preface",
+      "column": 1,
+      "role": "body",
+      "text": "因而上達",
+      "xywh": [
+        671,
+        226,
+        50,
+        173
+      ]
+    },
+    {
+      "id": "line-p008-c02",
+      "page_id": "page-8",
+      "section": "preface",
+      "column": 2,
+      "role": "body",
+      "text": "宸聰。仰蒙",
+      "xywh": [
+        613,
+        145,
+        50,
+        191
+      ],
+      "layout_note": "涉及宮廷稱謂的抬頭位置，圖面高於鄰欄。"
+    },
+    {
+      "id": "line-p008-c03",
+      "page_id": "page-8",
+      "section": "preface",
+      "column": 3,
+      "role": "body",
+      "text": "孝欽顯皇后。賞銀萬兩。俾立始基。繼而京師各部院王大臣。各省督撫州",
+      "xywh": [
+        555,
+        103,
+        50,
+        1155
+      ],
+      "layout_note": "涉及宮廷稱謂的抬頭位置，圖面高於鄰欄。"
+    },
+    {
+      "id": "line-p008-c04",
+      "page_id": "page-8",
+      "section": "preface",
+      "column": 4,
+      "role": "body",
+      "text": "縣。以及貴紳巨商。亦皆相率歡迎。慨然捐助。於是宏樓蔚起。志士",
+      "xywh": [
+        495,
+        226,
+        50,
+        1032
+      ]
+    },
+    {
+      "id": "line-p008-c05",
+      "page_id": "page-8",
+      "section": "preface",
+      "column": 5,
+      "role": "body",
+      "text": "遠來。舉行開學典禮時。蒙欽派大臣。那相國。臨堂祝頌。代表盛",
+      "xywh": [
+        435,
+        226,
+        50,
+        1032
+      ],
+      "layout_note": "原欄在蒙、欽兩字之間留白。"
+    },
+    {
+      "id": "line-p008-c06",
+      "page_id": "page-8",
+      "section": "preface",
+      "column": 6,
+      "role": "body",
+      "text": "意。各部院貴顯。及各國欽使。均同日畢集。頗極一時之盛。嗣則西",
+      "xywh": [
+        374,
+        226,
+        50,
+        1032
+      ]
+    },
+    {
+      "id": "line-p008-c07",
+      "page_id": "page-8",
+      "section": "preface",
+      "column": 7,
+      "role": "body",
+      "text": "商惠助巨款者有之。自備資斧。願充義務教員者有之。各慈善會",
+      "xywh": [
+        312,
+        226,
+        50,
+        1032
+      ]
+    },
+    {
+      "id": "line-p008-c08",
+      "page_id": "page-8",
+      "section": "preface",
+      "column": 8,
+      "role": "body",
+      "text": "以巨金。延聘精通醫術之士。以供本堂教授生徒者。又有之。是以",
+      "xywh": [
+        253,
+        226,
+        50,
+        1032
+      ]
+    },
+    {
+      "id": "line-p008-c09",
+      "page_id": "page-8",
+      "section": "preface",
+      "column": 9,
+      "role": "body",
+      "text": "聲震全球。名播通國。舉凡有心濟世諸志士。莫不遠離鄉井。負笈",
+      "xywh": [
+        193,
+        226,
+        50,
+        1032
+      ]
+    },
+    {
+      "id": "line-p008-c10",
+      "page_id": "page-8",
+      "section": "preface",
+      "column": 10,
+      "role": "body",
+      "text": "而來。自開學迄今。已幾四載。師生授受。同志觀摩。醫術日進精深。",
+      "xywh": [
+        134,
+        226,
+        50,
+        1032
+      ],
+      "editorial_note": "放大圖可見志字上士下心。"
+    },
+    {
+      "id": "line-p008-c11",
+      "page_id": "page-8",
+      "section": "preface",
+      "column": 11,
+      "role": "body",
+      "text": "濟濟一堂。足令人喜而不寐。觀夫此。定卜吾國醫道。必將堅立其",
+      "xywh": [
+        71,
+        226,
+        50,
+        1032
+      ]
+    },
+    {
+      "id": "line-p009-c01",
+      "page_id": "page-9",
+      "section": "preface",
+      "column": 1,
+      "role": "body",
+      "text": "基。而根於此堂也。茲特將堂中梗概。撮舉數端。俾衆咸知。本學堂",
+      "xywh": [
+        743,
+        215,
+        50,
+        1043
+      ]
+    },
+    {
+      "id": "line-p009-c02",
+      "page_id": "page-9",
+      "section": "preface",
+      "column": 2,
+      "role": "body",
+      "text": "之所以成就。幾費經營。更望仁人君子。隨時解囊。源源資助。俾堂",
+      "xywh": [
+        682,
+        215,
+        50,
+        1043
+      ]
+    },
+    {
+      "id": "line-p009-c03",
+      "page_id": "page-9",
+      "section": "preface",
+      "column": 3,
+      "role": "body",
+      "text": "中規模。日益宏大。造就多士。以供國家器使。而拯濟斯人。尤所冀",
+      "xywh": [
+        620,
+        215,
+        50,
+        1043
+      ],
+      "editorial_note": "規模後有圓形原刻句點。"
+    },
+    {
+      "id": "line-p009-c04",
+      "page_id": "page-9",
+      "section": "preface",
+      "column": 4,
+      "role": "body",
+      "text": "幸。",
+      "xywh": [
+        560,
+        215,
+        50,
+        56
+      ]
+    }
+  ]
+}
